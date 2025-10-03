@@ -1,26 +1,23 @@
-[![zoner.work][badge_z]][sharkey]<a rel="me" href="https://zoner.work/@d"></a> [![bsky.app][badge_b]][atproto] [![codeberg.org][badge_c]][forgejo] [![Build][badge_w]][workflow]
+[![zoner.work][badge_z]][sharkey]<a rel="me" href="https://zoner.work/@v"></a> [![codeberg.org][badge_c]][forgejo] [![Build][badge_w]][workflow]
 
 [badge_z]: https://img.shields.io/badge/%20-F1007E.svg?e&logo=activitypub&logoColor=white
-[sharkey]: https://zoner.work/@d
-
-[badge_b]: https://img.shields.io/badge/%20-0285FF.svg?e&logo=bluesky&logoColor=white
-[atproto]: https://bsky.app/profile/dzhr.ch
+[sharkey]: https://zoner.work/@v
 
 [badge_c]: https://img.shields.io/badge/%20-FB923C.svg?e&logo=forgejo&logoColor=white
-[forgejo]: https://codeberg.org/dzhr
+[forgejo]: https://codeberg.org/vgxrl
 
 [badge_w]: https://img.shields.io/github/actions/workflow/status/dzhira/dzhira/ci.yml?branch=main
-[workflow]: https://github.com/dzhira/dzhira/actions?query=workflow%3A%22penrose%22
+[workflow]: https://github.com/vgxrl/vgxrl/actions?query=workflow%3A%22penrose%22
 
-`/ˈdʒiːrə/` - [pronouns](https://pronouns.cc/@dzhr)
+`/vˈiː/` - *it/she*
 
 making computers worse™
 
--  🔰 crypto(graphy) 🔐
+-  🔒 security 🔑
 
--  🔮 open sourceress 🧙‍♀️
+-  💾 sourceress 🔮
 
--  🛠️ tinkerer 💾
+-  🛠️ tinkerer 👩‍💻
 
 [![Ko-fi][badge_k]][kofi] [![Liberapay][badge_l]][liberapay]
 
@@ -28,4 +25,4 @@ making computers worse™
 [kofi]: https://ko-fi.com/I3I8WM9Q1
 
 [badge_l]: https://img.shields.io/badge/Liberapay%20-4e4e50.svg?e&logo=liberapay
-[liberapay]: https://liberapay.com/dzhr/donate
+[liberapay]: https://liberapay.com/vgxrl/donate
