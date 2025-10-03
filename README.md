@@ -6,7 +6,7 @@
 [badge_c]: https://img.shields.io/badge/%20-FB923C.svg?e&logo=forgejo&logoColor=white
 [forgejo]: https://codeberg.org/vgxrl
 
-[badge_w]: https://img.shields.io/github/actions/workflow/status/dzhira/dzhira/ci.yml?branch=main
+[badge_w]: https://img.shields.io/github/actions/workflow/status/vgxrl/vgxrl/ci.yml?branch=main
 [workflow]: https://github.com/vgxrl/vgxrl/actions?query=workflow%3A%22penrose%22
 
 `/vˈiː/` - *it/she*
