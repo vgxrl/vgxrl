@@ -9,7 +9,7 @@
 [badge_w]: https://img.shields.io/github/actions/workflow/status/vgxrl/vgxrl/ci.yml?branch=main
 [workflow]: https://github.com/vgxrl/vgxrl/actions?query=workflow%3A%22penrose%22
 
-`/vˈiː/` - *it/she*
+`/ˈviː/` - *it/she*
 
 making computers worse™
 
