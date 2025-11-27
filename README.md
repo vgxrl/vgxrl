@@ -1,9 +1,9 @@
-[![zoner.work][badge_z]][sharkey]<a rel="me" href="https://zoner.work/@v"></a> [![codeberg.org][badge_c]][forgejo] [![Build][badge_w]][workflow]
+[![chaos.social][badge_a]][activitypub]<a rel="me" href="https://chaos.social/@v"></a> [![codeberg.org][badge_f]][forgejo] [![Build][badge_w]][workflow]
 
-[badge_z]: https://img.shields.io/badge/%20-F1007E.svg?e&logo=activitypub&logoColor=white
-[sharkey]: https://zoner.work/@v
+[badge_a]: https://img.shields.io/badge/%20-F1007E.svg?e&logo=activitypub&logoColor=white
+[activitypub]: https://chaos.social/@v
 
-[badge_c]: https://img.shields.io/badge/%20-FB923C.svg?e&logo=forgejo&logoColor=white
+[badge_f]: https://img.shields.io/badge/%20-FB923C.svg?e&logo=forgejo&logoColor=white
 [forgejo]: https://codeberg.org/vgxrl
 
 [badge_w]: https://img.shields.io/github/actions/workflow/status/vgxrl/vgxrl/ci.yml?branch=main
@@ -26,3 +26,5 @@ making computers worse™
 
 [badge_l]: https://img.shields.io/badge/Liberapay%20-4e4e50.svg?e&logo=liberapay
 [liberapay]: https://liberapay.com/vgxrl/donate
+
+[![Please don't upload to GitHub](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page)
